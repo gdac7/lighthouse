@@ -43,7 +43,7 @@ class PreProcess:
 
 
 
-        full_pipeline = ColumnTransformer(transformers)
+        full_pipeline = ColumnTransformer(transformers, remainder="passthrough")
 
         self.pipe = full_pipeline
             
