@@ -1,4 +1,5 @@
 ## Instalando dependências
+**Faça o clone do repositório e mude para a pasta onde o código se encontra**  
 `python3 -m venv venv`  
 `source venv/bin/activate`  
 `pip install -r requirements.txt`  
