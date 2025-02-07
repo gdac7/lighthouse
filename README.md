@@ -9,4 +9,5 @@
 `some_data = df[:10]`  
 `some_labels = df[:10]['price'].copy()`  
 **Mude o *10* para outros valores no conjunto de dados**  
+
 Vídeo: https://drive.google.com/file/d/1mRiD9UeU_N3FWi8gdNmwKNoOVa4ghcVS/view
